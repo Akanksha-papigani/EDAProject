@@ -184,7 +184,5 @@ Open:
 * Build interactive dashboard using Streamlit or Tableau
 * Apply Machine Learning models
 * Deploy visualization dashboard online
-
 # Conclusion
-
 This project demonstrates how Exploratory Data Analysis can uncover meaningful insights from educational datasets using Python-based data analysis and visualization techniques.
